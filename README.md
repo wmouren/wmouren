@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @wmouren
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋 Hi, I’m @wmouren;Second+line+of+text)](https://git.io/typing-svg)
+
 
 
 <!---
